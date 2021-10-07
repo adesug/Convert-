@@ -1,0 +1,15 @@
+{
+  "name": "nodeconvert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "desug",
+  "license": "ISC",
+  "dependencies": {
+    "convertapi": "^1.11.1",
+    "convertapi-js": "^1.0.7"
+  }
+}
